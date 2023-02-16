@@ -1,0 +1,10 @@
+Daftar Matakuliah Teknik Sipil
+=========================================
+ A) Kimia Teknik
+ B) Pengantar Geologi
+ C) Statika
+ D) Matematika Teknik
+ E) Pancasila
+ F) Fisika Teknik
+ G) Mekanika Tanah
+ H) Algoritma Dan Pemrograman
